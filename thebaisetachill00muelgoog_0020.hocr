@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thebaisetachill00muelgoog_0020.png"; bbox 0 0 2948 4942; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 453 1533 894 1622">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 453 1533 894 1622">
+     <span class='ocr_line' id='line_1_1' title="bbox 453 1533 894 1622; baseline 0.007 -5"><span class='ocrx_word' id='word_1_1' title='bbox 453 1533 497 1621; x_wconf 93' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 526 1534 711 1622; x_wconf 84' lang='grc' dir='ltr'>ΡΑΡΙΝΙ</span> <span class='ocrx_word' id='word_1_3' title='bbox 738 1535 894 1620; x_wconf 87' lang='lat' dir='ltr'><strong>STATI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1028 1748 1032 1755">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1028 1748 1032 1755">
+     <span class='ocr_line' id='line_1_2' title="bbox 1028 1748 1032 1755; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 1028 1748 1032 1755; x_wconf 73' lang='lat' dir='ltr'><em>a</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 142 1769 1308 1986">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 142 1769 1308 2060">
+     <span class='ocr_line' id='line_1_3' title="bbox 142 1769 1308 1986; baseline 0.003 -3"><span class='ocrx_word' id='word_1_5' title='bbox 142 1769 145 1779; x_wconf 61' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 333 1853 1016 1986; x_wconf 77' lang='lat' dir='ltr'><strong>THEBAIS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1301 1960 1308 1967; x_wconf 91' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1478 4942">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1478 4942">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1478 4942; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1478 4942; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
